@@ -17,5 +17,4 @@ const Hero = () => {
     </header>
   )
 }
-
 export default Hero
