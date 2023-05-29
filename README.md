@@ -1,3 +1,4 @@
+## SummarizerAI
 
 Welcome to SummarizerAI, the revolutionary web application designed to simplify your reading experience! With SummarizerAI, you can now effortlessly obtain concise summaries of lengthy articles just by providing their URLs as input.
 
