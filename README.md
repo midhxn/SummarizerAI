@@ -8,7 +8,6 @@ Our advanced AI-powered technology analyzes the content of any given article and
 
 Using SummarizerAI is incredibly simple. Just paste the URL of the article into our intuitive interface, and within seconds, you'll receive a concise summary that highlights the key information. Our algorithm meticulously selects the most relevant sentences, ensuring that you get a coherent and accurate overview without the need to read the entire article.
 
-SummarizerAI also offers customizable options, allowing you to adjust the length of the summary based on your preferences. Whether you want a brief overview or a more detailed synopsis, our application tailors the output to suit your needs.
-
 With SummarizerAI, you can optimize your reading time, boost productivity, and stay well-informed in today's fast-paced world. Say goodbye to information overload and hello to efficient reading with SummarizerAI - the ultimate solution for summarizing articles at the click of a button. Try it now and experience the power of AI-driven summaries!
 
+SummarizerAI also offers customizable options, allowing you to adjust the length of the summary based on your preferences. Whether you want a brief overview or a more detailed synopsis, our application tailors the output to suit your needs.
